@@ -6,7 +6,11 @@ My Personal portfolio built using the good old basics. Made with Vanilla JS, SAS
 
 View my PageSpeed Insights below. PageSpeed Insight analyzes the content of a web page, then generates suggestions to make that page faster.
 
-![My PageSpeed Insights](./github/assets/pagespeed-insights.svg "My PageSpeed Insights")
+### My Mobile Report:
+![My PageSpeed Insights Mobile](./github/psresultmobile.svg "My PageSpeed InsightsMobile")
+
+### My Desktop Report:
+![My PageSpeed Insights Mobile](./github/psresultdesktop.svg "My PageSpeed InsightsMobile")
 
 ## License:
 
